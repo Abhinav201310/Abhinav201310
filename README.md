@@ -4,6 +4,7 @@
 <p align="center">
   <a href="https://abhinav-portfolio-delta.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/abhinav-gupta-052860239/">LinkedIn</a> ·
+  <a href="https://leetcode.com/u/abhinavsonaili121/">LeetCode</a> ·
   <a href="mailto:abhinavsonaili@gmail.com">Email</a> ·
   <a href="https://t.me/abhinav20141">Telegram</a>
 </p>
@@ -13,7 +14,7 @@
 - Final-year B.Tech Computer Science (Data Science) student at Dr. A.P.J. Abdul Kalam Technical University (2023–2027), based in New Delhi, India
 - **Gen AI Intern @ IBM SkillsBuild** (Jul–Sep 2026, Remote) — worked on Generative AI, prompt engineering and LLM-based applications
 - I build full-stack web apps with **React, Node.js and Python**, and AI applications with **RAG pipelines, vector databases and LLMs**
-- Solved **150+ DSA problems** on LeetCode and GeeksforGeeks
+- Solved **150+ DSA problems** on [LeetCode](https://leetcode.com/u/abhinavsonaili121/) and GeeksforGeeks
 - Currently building: **RetailMind AI** (end-to-end customer intelligence & GenAI analytics) and **JobShield AI** (fake job/internship scam detector for freshers)
 - **Open to work:** fresher SDE / Full Stack / AI-ML roles — anywhere in India or remote
 
@@ -55,5 +56,6 @@
 
 - Portfolio: https://abhinav-portfolio-delta.vercel.app/
 - LinkedIn: https://www.linkedin.com/in/abhinav-gupta-052860239/
+- LeetCode: https://leetcode.com/u/abhinavsonaili121/
 - Email: abhinavsonaili@gmail.com
 - Telegram: [@abhinav20141](https://t.me/abhinav20141)
