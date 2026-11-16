@@ -1,24 +1,59 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+<h1 align="center">Hi, I'm Abhinav Kumar Gupta</h1>
+<h3 align="center">Final-Year B.Tech CSE (Data Science) @ AKTU · Full Stack Developer · GenAI & LLM Apps</h3>
 
+<p align="center">
+  <a href="https://abhinav-portfolio-delta.vercel.app/">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/abhinav-gupta-052860239/">LinkedIn</a> ·
+  <a href="mailto:abhinavsonaili@gmail.com">Email</a> ·
+  <a href="https://t.me/abhinav20141">Telegram</a>
+</p>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abhinav-gupta-052860239) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Abhinav Gupta) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhinavsonaili@gmail.com) 
+## About Me
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=flat&logo=go&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=flat&logo=powershell&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=flat&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=flat&logo=Cloudflare&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=flat&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat&logo=vercel&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=flat&logo=angularjs&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=flat&logo=laravel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white) ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=Apache%20Airflow&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=flat&logo=blender&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=flat&logo=selenium&logoColor=white)
-# 🐍 Contribution Graph Snake:
-![Snake animation](https://raw.githubusercontent.com/Abhinav201310/Abhinav201310/output/github-contribution-grid-snake-dark.svg)
+- Final-year B.Tech Computer Science (Data Science) student at Dr. A.P.J. Abdul Kalam Technical University (2023–2027), based in New Delhi, India
+- **Gen AI Intern @ IBM SkillsBuild** (Jul–Sep 2026, Remote) — worked on Generative AI, prompt engineering and LLM-based applications
+- I build full-stack web apps with **React, Node.js and Python**, and AI applications with **RAG pipelines, vector databases and LLMs**
+- Solved **150+ DSA problems** on LeetCode and GeeksforGeeks
+- Currently building: **RetailMind AI** (end-to-end customer intelligence & GenAI analytics) and **JobShield AI** (fake job/internship scam detector for freshers)
+- **Open to work:** fresher SDE / Full Stack / AI-ML roles — anywhere in India or remote
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Abhinav201310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)<br/>
-![](https://streak-stats.demolab.com/?user=Abhinav201310&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav201310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+## Tech Stack
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+**Languages:** Python · JavaScript · TypeScript · Java · C · C++ · SQL
 
----
-[![](https://komarev.com/ghpvc/?username=Abhinav201310&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frontend:** React.js · HTML5 · CSS3 · Vite
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend:** Node.js · Express.js · FastAPI · Flask · REST APIs
+
+**AI / ML / Data:** PyTorch · Pandas · NumPy · Matplotlib · scikit-learn · LangChain / LangGraph · ChromaDB (Vector DB) · Prompt Engineering · RAG · LLM Evaluation
+
+**Databases & Tools:** MySQL · MongoDB · Git · GitHub · Vercel
+
+## Featured Projects
+
+| Project | What it is | Tech |
+|---|---|---|
+| [DocuMind — RAG Technical Assistant](https://github.com/Abhinav201310/rag-technical-assistant) | Self-corrective RAG assistant for technical documentation — answers are graded and re-retrieved until grounded | LangGraph, FastAPI, ChromaDB, Groq Llama 3.3 70B |
+| [Deep Learning Model Optimization & Normalisation](https://github.com/Abhinav201310/Deep-Learning-Model-Optimization-Normalisation) | PyTorch deep-learning experiments — MLFFNN/DFNN architectures, Adam vs RMSProp, normalisation techniques | PyTorch, Python |
+| [PlaceEdge](https://github.com/Abhinav201310/PlaceEdge) · [Live](https://place-edge-three.vercel.app) | Placement-preparation platform built from 75 real interview PDFs — resources, tracking and analytics | React, JavaScript |
+| [BuildEstate](https://buildestate.vercel.app/) | Real-estate website with property listings and enquiry flow | React, Vercel |
+| [Myntra Clone](https://myntra-clone-two-eta.vercel.app/Landingpage/index.html) | E-commerce front-end clone with product listing, filters and cart flow | HTML, CSS, JavaScript |
+| [AetherPulse](https://github.com/Abhinav201310/AetherPulse) | Cyber-telemetry tool — PCAP parsing, throughput tracking and threat diagnostics | Python, Scapy |
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abhinav201310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true" alt="Abhinav's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhinav201310&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Abhinav201310/Abhinav201310/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+</p>
+
+## Connect With Me
+
+- Portfolio: https://abhinav-portfolio-delta.vercel.app/
+- LinkedIn: https://www.linkedin.com/in/abhinav-gupta-052860239/
+- Email: abhinavsonaili@gmail.com
+- Telegram: [@abhinav20141](https://t.me/abhinav20141)
